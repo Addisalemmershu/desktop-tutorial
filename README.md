@@ -5,21 +5,27 @@
 # Overview
 
 This repository contains implementations of the following linked list types in C++:
-   	  1        Single linked list
-             2       Double linked list
-             3     Circular single linked list
-             4    Circular double linked list
+   	  
+      1        Single linked list
+      2       Double linked list
+      3     Circular single linked list
+       4    Circular double linked list
 
 
 Each implementation includes functions for:
+     
      Insertion (At beginning, at end, and at a specific position)
      Deletion (At beginning, at end, and at a specific position)
      Display   (Traversal of the list)
 
 
-#Getting Started
+
+# Getting Started
 To use this implementation, A C++ compiler(Dev C++)
-Example Usage
+
+
+#  Example Usage
+
 Insertion AtBeginning(Single Linked List)
 void insertAtBeginning(int value) {
     Node* newNode = new Node(value);
