@@ -65,12 +65,18 @@ And also I create new folder then, all of my source code and screenshot collect 
 
 Now I download and installing Github.com software
 next step of github  
-            create account of GitHub
-            open GitHub
-            I get code
-            create repositor
-            upload file
-            I put file that I made zipped and I copy link then I sent this link
+           
+          ->  create account of GitHub
+           
+           -> open GitHub
+           
+           ->? I get code
+           
+          ->  create repositor
+           
+           -> upload file
+           
+           -> I put file that I made zipped and I copy link then I sent this link
 
 # Reference 
  
