@@ -1,7 +1,7 @@
- #DATA STRUCTURE AND ALGORITHM ASSIGNMENT 
+ # DATA STRUCTURE AND ALGORITHM ASSIGNMENT 
  
-#Linked List Implementation in C++
-#Overview
+# Linked List Implementation in C++
+# Overview
 This repository contains implementations of the following linked list types in C++:
    	  1        Single linked list
              2       Double linked list
@@ -42,7 +42,13 @@ while (temp!= head);
 }
 Then after I compile and run this code, I screenshot my input data and output result.
 And also I create new folder then, all of my source code and screenshot collect together in new folder and zipped this folder .
-Now I download and installing Github.com software->create account of GitHub->open GitHub->I get code->create repositor->upload file ->I put file that I made zipped and I copy link then I sent this link
+Now I download and installing Github.com software
+->create account of GitHub
+->open GitHub
+->I get code
+->create repositor
+->upload file
+->I put file that I made zipped and I copy link then I sent this link
 Reference 
  1.Data structure and algorithm 
  2.Online tutorial
